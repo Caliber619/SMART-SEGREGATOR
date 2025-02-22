@@ -1,4 +1,5 @@
 # ♻️ Smart Segregator – AI-Powered Waste Sorting System 🚮  
+### You can watch the project working presentation here:  
 ![https://youtu.be/vsmMBCuZRrM?si=tVrhLY5phV5H6Qay]
 
 ## 📌 Project Overview  
