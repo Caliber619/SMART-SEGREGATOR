@@ -1,4 +1,5 @@
 # ♻️ Smart Segregator – AI-Powered Waste Sorting System 🚮  
+![https://youtu.be/vsmMBCuZRrM?si=tVrhLY5phV5H6Qay]
 
 ## 📌 Project Overview  
 The **Smart Segregator** is an intelligent waste classification and disposal system that combines **computer vision** and **IoT (Arduino)** to automate trash segregation. By leveraging **image processing** and **servo-controlled bins**, this project ensures **efficient**, **accurate**, and **eco-friendly** waste management.  
